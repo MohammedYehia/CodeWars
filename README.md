@@ -1,2 +1,2 @@
-#My Solutions
+# My Solutions
 # CodeWars
