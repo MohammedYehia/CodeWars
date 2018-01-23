@@ -1,3 +1,5 @@
+//Kata=> https://www.codewars.com/kata/57fcedb387b8012b23000023
+
 var str=[];
 //refine console => empty object
 var console = {};
